@@ -20,13 +20,10 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Portfolio <a name="about-project"></a>
-
-> A simple project to demonstrate the GitHub flow at Microverse.
-
-**Portfolio** is all about me.
+<div aligh:"center">
 <img src="images/index.png" alt="logo" width="140"  height="auto" />
   <br/>
-
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
