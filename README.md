@@ -20,11 +20,10 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Portfolio <a name="about-project"></a>
-<div aligh:"center">
+<div aligh="center">
 <img src="images/index.png" alt="logo" width="140"  height="auto" />
   <br/>
 </div>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
