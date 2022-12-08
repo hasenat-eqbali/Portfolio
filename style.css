@@ -46,7 +46,6 @@ header {
   gap: 12px;
   position: absolute;
   width: 375px;
-  height: 590px;
   left: 0;
   background: #1c1a19;
 }
@@ -103,4 +102,21 @@ header {
   padding: 0;
   width: 200px;
   list-style-type: none;
+}
+ /* my recent works  */
+ /* .title{
+  border: 3px solid red;;
+  width: 327px;
+  height: 83px;
+  font-family: 'Crete Round';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+  color: #1C1A19; 
+ } */
+.about{
+  display: flex;
 }
