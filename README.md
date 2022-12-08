@@ -19,11 +19,13 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello Microverse <a name="about-project"></a>
+# 📖 Portfolio <a name="about-project"></a>
 
 > A simple project to demonstrate the GitHub flow at Microverse.
 
-**Hello Microverse** is a web page.
+**Portfolio** is all about me.
+<img src="images/index.png" alt="logo" width="140"  height="auto" />
+  <br/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
